@@ -70,7 +70,7 @@
         "@headlessui/vue": "^1.7.23",
         "@sentry/tracing": "^7.120.3",
         "@sentry/vue": "^9.0.0",
-        "@tailwindcss/vite": "^4.0.1",
+        "@tailwindcss/vite": "^4.1.11",
         "@tinymce/tinymce-vue": "^6.1.0",
         "@umoteam/editor": "^5.0.0",
         "@vueform/multiselect": "^2.6.11",
